@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Developer Guides
 
-I'm glad you are here. I plan to talk about ...
+Welcome to the Identity Automation Developer Guides site
